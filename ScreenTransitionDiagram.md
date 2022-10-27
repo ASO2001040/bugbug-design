@@ -1,6 +1,6 @@
 ```uml
 @startuml
-[*]->商品一覧
+[*]->TOP
 
 TOP : entry/Top画面を表示
 TOP-->ログイン: ログインボタンをクリック
